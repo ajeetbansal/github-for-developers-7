@@ -2,3 +2,4 @@
  - [ ] Foster City
  - [ ] Mango
  - [ ] Swimming
+ - [ ] Yellow
